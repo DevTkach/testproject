@@ -30,7 +30,7 @@ header ul {
     list-style-type: none;
     display: flex;
     justify-content: space-between;
-    padding: 0 0px;
+    padding: 0;
     margin: 0;
     width: 100%;
 }
@@ -52,7 +52,7 @@ footer ul {
     list-style-type: none;
     display: flex;
     justify-content: space-evenly;
-    padding: 0 0px;
+    padding: 0;
     margin: 0;
     width: 100%;
 }
