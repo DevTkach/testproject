@@ -5,6 +5,12 @@
     background-color: lightgray;
 }
 
+.box {
+    border: 2px solid black;
+    padding: 10px 20px;
+    background-color: lightgray;
+}
+
 nav {
     width: 100%;
 }
@@ -27,4 +33,13 @@ footer {
     border: 2px solid black;
     padding: 10px 20px;
     background-color: lightgray;
+}
+
+footer ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 0px;
+    margin: 0;
+    width: 100%;
 }
