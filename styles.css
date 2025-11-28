@@ -11,6 +11,15 @@
     background-color: #eeeeee;
 }
 
+header ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 0px;
+    margin: 0;
+    width: 100%;
+}
+
 nav {
     width: 100%;
 }
